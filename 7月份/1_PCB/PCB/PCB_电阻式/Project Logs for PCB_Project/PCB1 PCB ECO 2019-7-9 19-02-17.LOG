@@ -1,0 +1,4 @@
+Added Pin To Net: NetName=Switch_Down_CH14 Pin=U4-2
+Added Pin To Net: NetName=Switch_Down_CH15 Pin=U4-5
+Change Net Name : Old Net Name=Switch2_Down__INH New Net Name=Switch2_Down_INH
+Added Room: Name=µç×è

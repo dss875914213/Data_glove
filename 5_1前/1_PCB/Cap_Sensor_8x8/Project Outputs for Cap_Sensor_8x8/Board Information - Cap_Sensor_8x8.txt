@@ -1,0 +1,12 @@
+Board Information Report
+Filename     : C:\Users\tianhun\Desktop\Cap_Sensor_8x8\Cap_Sensor_8x8.PcbDoc
+Date         : 2019/4/5
+Time         : 21:50:20
+Time Elapsed : 00:00:00
+
+Routing Information
+    Routing completion, 99.58%
+    Connections, 237
+    Connections routed, 236
+    Connections remaining, 1
+count : 4

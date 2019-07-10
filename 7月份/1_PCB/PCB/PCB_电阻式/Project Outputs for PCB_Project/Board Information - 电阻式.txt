@@ -1,0 +1,12 @@
+Board Information Report
+Filename     : G:\1_Always\2_实验室学习\Artificial Skin\5_1后\PCB_电阻式\电阻式.PcbDoc
+Date         : 2019/5/13
+Time         : 20:09:37
+Time Elapsed : 00:00:00
+
+Routing Information
+    Routing completion, 100.00%
+    Connections, 78
+    Connections routed, 78
+    Connections remaining, 0
+count : 4
